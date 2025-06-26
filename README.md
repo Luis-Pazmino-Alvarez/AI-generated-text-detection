@@ -7,12 +7,10 @@ OPIM 5512: Data Science Using Python
 OPIM 5509: Introduction to Deep Learning
 
 The task is to build a model that can classify text documents as either human-written (0) or AI-generated (1), based on:
+
 TRaining Data set-  https://drive.google.com/file/d/1_vL5Mp2uI-61xBfOwiWwUHJT6q6rn1QM/view?usp=drive_link  
-
 Precomputed document embeddings (768-dimensional vectors),
-
 Word count,
-
 Punctuation metrics.
 
 The dataset used is provided in the form of a CSV file (training_set.csv) with labels. The test set is not labeled and is excluded from this analysis.
