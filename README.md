@@ -1,7 +1,9 @@
 # AI-generated-text-detection
 
 Project Overview
+
 This repository contains a project for detecting AI-generated text using machine learning techniques. It is part of coursework for two classes at the University of Connecticut:
+
 OPIM 5512: Data Science Using Python
 OPIM 5509: Introduction to Deep Learning
 
